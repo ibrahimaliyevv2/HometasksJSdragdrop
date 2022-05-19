@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box{
+    width: 300px;
+    height: 550px;
+    background-color: orangered;
+    margin-top:220px;
+    margin-left: 100px;
+
+}
+
+.text-new{
+    font-size:20px;
+    text-align: center;
+    color: white;
+}
